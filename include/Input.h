@@ -2,9 +2,10 @@
 #define Input_h
 
 struct option{
-    int opsi ;
+    int opsi, operasi;
 };
 
 void input() ;
+void StandardOperation1();
 
 #endif

@@ -8,5 +8,7 @@ struct number
 
 void penjumlahan() ;
 void pengurangan() ;
+void perkalian() ;
+void pembagian() ;
 
 #endif

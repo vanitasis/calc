@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include "StandardOp.h"
+#include "Input.h"
 
 int main() {
-    penjumlahan();
+    input() ;
     return 0;
 }
